@@ -80,7 +80,8 @@ docker rm containername -f
 // mongo shell
 mongosh -u username -p password
 
-docker system prune
+// Remove docker volumes
+docker volume prune
 
 ```
 
