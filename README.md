@@ -1,4 +1,4 @@
-# Learn Docker - DevOps with Node and Express
+# Laravel Docker
 
 ## Table of Contents
 
@@ -87,4 +87,4 @@ docker volume prune
 
 ## Acknowledgements
 
-- This project is based on the [Learn Docker - DevOps with Node.js & Express](https://www.youtube.com/watch?v=9zUHg7xjIqQ) tutorial on YouTube.
+- Pulled info from different sources
