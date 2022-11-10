@@ -5,7 +5,6 @@
 - [General Info](#general-information)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Configuration](#configuration)
 - [Quick Start](#quick-start)
 - [Project Status](#project-status)
 - [Useful Commands](#useful-commands)
