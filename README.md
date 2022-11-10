@@ -17,9 +17,10 @@
 
 Project is created with:
 
-- Laravel 9
 - Docker
+- Apache
 - MariaDB
+- Laravel 9
 
 ## Features
 
